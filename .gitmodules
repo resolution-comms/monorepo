@@ -1,3 +1,9 @@
 [submodule "doc/protocol"]
 	path = doc/protocol
 	url = git@github.com:resolution-comms/protocol.git
+[submodule "modules/resolution-server"]
+	path = modules/resolution-server
+	url = git@github.com:resolution-comms/server.git
+[submodule "modules/resolution-common"]
+	path = modules/resolution-common
+	url = git@github.com:resolution-comms/common.git
