@@ -1,0 +1,2 @@
+# monorepo
+Central repository workspace
