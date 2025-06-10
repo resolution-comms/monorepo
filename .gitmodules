@@ -7,3 +7,6 @@
 [submodule "modules/resolution-common"]
 	path = modules/resolution-common
 	url = git@github.com:resolution-comms/common.git
+[submodule "modules/client"]
+	path = modules/client
+	url = git@github.com:resolution-comms/client.git

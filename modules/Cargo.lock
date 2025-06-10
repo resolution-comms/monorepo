@@ -9,3 +9,7 @@ version = "0.1.0"
 [[package]]
 name = "resolution-server"
 version = "0.1.0"
+
+[[package]]
+name = "resolution_client_utils"
+version = "0.1.0"
