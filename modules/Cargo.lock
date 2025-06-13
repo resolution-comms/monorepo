@@ -2994,6 +2994,22 @@ dependencies = [
 [[package]]
 name = "resolution-server"
 version = "0.1.0"
+dependencies = [
+ "anyhow",
+ "base64",
+ "crc",
+ "iroh",
+ "oqs",
+ "resolution-common",
+ "rmp",
+ "rmp-serde",
+ "serde",
+ "serde_json",
+ "serde_with",
+ "thiserror 2.0.12",
+ "tokio",
+ "uuid",
+]
 
 [[package]]
 name = "resolution_client_utils"
